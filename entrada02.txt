@@ -1,4 +1,10 @@
-<
-soma = num1 + num2;
-if(soma == 7) then
-  soma = soma + 3;
+int main() {
+int contador = 1;
+int soma = 0;
+while(contador <= 10) {
+soma += contador;
+contador++;
+}
+printf(soma);
+return 0;
+}

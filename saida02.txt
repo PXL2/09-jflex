@@ -1,2 +1,8 @@
-[0][0] <: Caracter inválido.
+[0][0] int: Identificador.
+[0][3]  : Espaço em branco.
+[0][4] main: Identificador.
+[0][8] (: Abre parêntese.
+[0][9] ): Fecha parêntese.
+[0][10]  : Espaço em branco.
+[0][11] {: Caracter inválido.
 Unexpected exception:
